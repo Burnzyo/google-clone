@@ -1,0 +1,231 @@
+.top_right{
+    text-align: right;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+.navbar{
+    width: 532px;
+    height: 42px;
+    border-radius: 24px;
+    border: 1px solid #DFE1E5;
+    padding-inline-start: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.button{
+    width: 140px;
+    height: 36px;
+    border-radius: 4px;
+    border: none;
+    background-color: #F8F9FA;
+    font-size: 14px;
+    color: #3C4043;
+}
+.button:hover{
+    cursor: pointer;
+}
+form{
+    padding-top: 8px;
+    text-align: center;
+}
+.btns{
+    padding-top: 29px;
+    text-align: center;
+}
+#google_logo{
+    height: 90px;
+    width: 270px;
+    padding-top: 145px;
+}
+#google_logo_align{
+    text-align: center;
+}
+.llinks{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #6F6F6F;
+    position: relative;
+	bottom:11px;
+	left:15px;
+	padding-right:8px;
+	padding-left:15px;
+}
+.rlinks{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #6F6F6F;
+    position: relative;
+    bottom:10px;
+    float:right;
+    right:18px;
+    padding-right:12px;
+	padding-left:15px;
+}
+.links {
+	position: absolute;
+	bottom:0px;
+	left:0px;
+	right:0px;
+    background:#F2F2F2;
+	padding-top:22px;
+	border-top: 1px solid #DADCE0;
+}
+.llinks:hover, .rlinks:hover{
+    cursor: pointer;
+}
+.country{
+    position: absolute;
+	bottom:34px;
+	left:0px;
+	right:0px;
+    background:#F2F2F2;
+	padding-top:0px;
+	border-top: 1px solid #DADCE0;
+}
+#colombia{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    color: #6F6F6F;
+    position: relative;
+    bottom: 4px;
+    padding-left: 30px;
+}
+#google_mini_logo{
+    text-align: left;
+    background-color:#F1F1F1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 909px;
+}
+#mini_logo{
+    position: absolute;
+    height: 30px;
+    left: 15px;
+    top: 15px;
+}
+#advanced_search {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 133px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #D93025;
+    padding-left: 37px;
+    width: auto;
+    border-bottom: 1px solid #EBEBEB;
+}
+#textoad {
+    position: absolute;
+    bottom: 5px;
+    left: 45px;
+}
+#findPagesWith {
+    position: absolute;
+    top: 164px;
+    left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #333333;
+}
+.filters {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    position: absolute;
+    top: 210px;
+    left: 45px;
+}
+.filters2 {
+    padding-bottom: 14px;
+}
+.searchbars {
+    position: absolute;
+    top: 208px;
+    left: 227px;
+}
+.searchbars2 {
+    height: 25px;
+    border: 1px solid #D9D9D9;
+    border-top: 1px solid #C0C0C0;
+    border-radius: 0px;
+    width: 566px;
+    margin-bottom: 13px;
+    display: grid;
+}
+#todo {
+    position: absolute;
+    top: 168px;
+    left: 802px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #777777;
+}
+#description {
+    position: absolute;
+    top: 213px;
+    left: 814px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #555555;
+}
+.description2 {
+    padding-bottom: 19px;
+}
+#description3 { 
+    padding-bottom: 13px;
+}
+.difformat {
+    position: absolute;
+    top: 213px;
+    left: 944px;
+    font-family: monospace;
+    font-size: 11px;
+    font-weight: 400;
+    color: #666666;
+}
+.difformat2 {
+    position: absolute;
+    top: 42px;
+    left: 2px;
+}
+.difformat3 {
+    width: 150px;
+    position: absolute;
+    top: 84px;
+    left: 76px;
+}
+.difformat4 {
+    position: absolute;
+    top: 132px;
+    left: -130px;
+}
+#advancedButton {
+    position: absolute;
+    top: 188px;
+    left: 450px;
+    color: white;
+    background-color: #4B8DF9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    border: 1px solid #3079ED;
+    height: 30px;
+    width: 120px;
+}
